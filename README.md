@@ -1,3 +1,3 @@
 # SynChat  
-- It's a real time chat application.
+- A combination of "Syn" (Synchronous) and "Chat" suggesting a real-time chat experiance.
 
